@@ -1,4 +1,4 @@
-cmake_minimum_required(version 3.0)
+cmake_minimum_required(VERSION 2.7)
 project(test_Azure)
 
 set(CMAKE_BUILD_TYPE "Release")
